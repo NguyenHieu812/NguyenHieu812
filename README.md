@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm hieunt</h1>
 <h3 align="center">A fullstack developer at GNH Tech</h3>
 
+📌 Note: A large portion of my contributions are in private repositories.
+
 - 🌱 I’m currently learning **How to become a software engineer**
 
 - 📝 I regularly write articles on [https://www.devtalk.online/](https://www.devtalk.online/)
@@ -8,6 +10,8 @@
 - 💬 Ask me about **reactjs, nextjs, typescript, directus, javascript**
 
 - 📫 How to reach me **tronghieu12802@gmail.com**
+  
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/nguyen-hieu-nth12802/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
